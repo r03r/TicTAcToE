@@ -1,0 +1,4 @@
+{
+    "css.completion.completePropertyWithSemicolon": true,
+    "editor.inlineSuggest.showToolbar": "always"
+}
