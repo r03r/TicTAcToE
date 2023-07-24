@@ -6,7 +6,8 @@ function Square() {
   const [value, setValue] = useState(null);
 
   function handleClick() {
-    setValue('🐼', '🕷');
+    setValue('🐼');
+    setValue( '🕷');
   }
 
   return (
