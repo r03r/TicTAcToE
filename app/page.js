@@ -11,7 +11,7 @@ function Square({value, onSquareClick}) {
     </button>
   );
 }
-
+// esto es un comentario para git 
 export default function Board() {
   const [squares, setSquares] = useState(Array(9).fill(null));
 
